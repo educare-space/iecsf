@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       IECSF
- * Description:       Islamic Educare Storefront theme Ccustomisations plugin
+ * Description:       Islamic Educare Storefront theme Customisations plugin
  * Plugin URI:        https://github.com/islamiceducare/iecsf
  * Version:           1.0.0
  * Author:            Rio Purnomo
